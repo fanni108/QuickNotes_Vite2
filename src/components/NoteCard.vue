@@ -10,7 +10,7 @@ const emit = defineEmits<{
   delete: [id: number]
 }>()
 
-// This function tells the parent component which note should be deleted.
+// This function tells the parent component which note should be deleted
 // It is a small "send event" step that keeps the note logic in the right place.
 function deleteNote() {
   emit('delete', props.note.id)
