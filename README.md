@@ -1,5 +1,5 @@
 # QuickNotes
-
+Next Generation Web Frontends - Hausübung 2 - Quick Notes
 QuickNotes is a small notes app built with Vue 3, TypeScript, and Vite.
 
 ## Setup
